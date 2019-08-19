@@ -1,0 +1,7 @@
+Flask
+twilio
+tungsten
+gunicorn
+google-cloud-vision
+google-cloud-storage
+google-cloud-datastore

@@ -1,0 +1,1 @@
+count = {"Apple":0,"Orange drink":0,"Pineapple":0,"Banana":0,"Cabbage":0,"Bringel":0,"Tomato":0}
